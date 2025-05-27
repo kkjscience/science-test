@@ -1,406 +1,402 @@
-{
-"Sheet1":[
- {
-  "Question": "1. What is the powerhouse of the cell?",
-  "Option A": "Ribosome",
-  "Option B": "Mitochondria",
-  "Option C": "Nucleus",
-  "Option D": "Golgi apparatus",
-  "Answer": "Mitochondria"
- },
- {
-  "Question": "2. Which organelle is responsible for protein synthesis?",
-  "Option A": "Lysosome",
-  "Option B": "Ribosome",
-  "Option C": "Endoplasmic reticulum",
-  "Option D": "Chloroplast",
-  "Answer": "Ribosome"
- },
- {
-  "Question": "3. What is the basic unit of life?",
-  "Option A": "Tissue",
-  "Option B": "Organ",
-  "Option C": "Cell",
-  "Option D": "Molecule",
-  "Answer": "Cell"
- },
- {
-  "Question": "4. Which cell organelle contains digestive enzymes?",
-  "Option A": "Nucleus",
-  "Option B": "Lysosome",
-  "Option C": "Vacuole",
-  "Option D": "Cytoplasm",
-  "Answer": "Lysosome"
- },
- {
-  "Question": "5. What is the main function of the cell membrane?",
-  "Option A": "Protein synthesis",
-  "Option B": "Energy production",
-  "Option C": "Control entry\/exit",
-  "Option D": "Photosynthesis",
-  "Answer": "Control entry\/exit"
- },
- {
-  "Question": "6. Which structure is found only in plant cells?",
-  "Option A": "Lysosome",
-  "Option B": "Cell wall",
-  "Option C": "Mitochondria",
-  "Option D": "Centriole",
-  "Answer": "Cell wall"
- },
- {
-  "Question": "7. DNA is found in which part of the cell?",
-  "Option A": "Cytoplasm",
-  "Option B": "Ribosome",
-  "Option C": "Nucleus",
-  "Option D": "Golgi apparatus",
-  "Answer": "Nucleus"
- },
- {
-  "Question": "8. What is the fluid inside the cell called?",
-  "Option A": "Cytoplasm",
-  "Option B": "Nucleoplasm",
-  "Option C": "Matrix",
-  "Option D": "Plasma",
-  "Answer": "Cytoplasm"
- },
- {
-  "Question": "9. Which organelle modifies and packages proteins?",
-  "Option A": "Golgi apparatus",
-  "Option B": "Endoplasmic reticulum",
-  "Option C": "Mitochondria",
-  "Option D": "Ribosome",
-  "Answer": "Golgi apparatus"
- },
- {
-  "Question": "10. What is the function of chloroplasts?",
-  "Option A": "Respiration",
-  "Option B": "Photosynthesis",
-  "Option C": "Protein synthesis",
-  "Option D": "Digestion",
-  "Answer": "Photosynthesis"
- },
- {
-  "Question": "11. Which type of RNA carries amino acids to the ribosome?",
-  "Option A": "mRNA",
-  "Option B": "tRNA",
-  "Option C": "rRNA",
-  "Option D": "snRNA",
-  "Answer": "tRNA"
- },
- {
-  "Question": "12. The process of cell division in prokaryotes is called?",
-  "Option A": "Mitosis",
-  "Option B": "Binary fission",
-  "Option C": "Meiosis",
-  "Option D": "Cytokinesis",
-  "Answer": "Binary fission"
- },
- {
-  "Question": "13. Which part of the cell controls cell activities?",
-  "Option A": "Ribosome",
-  "Option B": "Golgi apparatus",
-  "Option C": "Nucleus",
-  "Option D": "Lysosome",
-  "Answer": "Nucleus"
- },
- {
-  "Question": "14. What is the role of the rough endoplasmic reticulum?",
-  "Option A": "Lipid synthesis",
-  "Option B": "Protein synthesis",
-  "Option C": "Photosynthesis",
-  "Option D": "ATP production",
-  "Answer": "Protein synthesis"
- },
- {
-  "Question": "15. Which organelle stores water and nutrients in plant cells?",
-  "Option A": "Vacuole",
-  "Option B": "Lysosome",
-  "Option C": "Mitochondria",
-  "Option D": "Endoplasmic reticulum",
-  "Answer": "Vacuole"
- },
- {
-  "Question": "16. What is the primary function of microtubules?",
-  "Option A": "Transport materials",
-  "Option B": "Provide shape to cell",
-  "Option C": "Aid in cell division",
-  "Option D": "All of the above",
-  "Answer": "All of the above"
- },
- {
-  "Question": "17. Which organelle is involved in lipid synthesis?",
-  "Option A": "Smooth ER",
-  "Option B": "Rough ER",
-  "Option C": "Golgi apparatus",
-  "Option D": "Lysosome",
-  "Answer": "Smooth ER"
- },
- {
-  "Question": "18. The cytoskeleton is made up of all EXCEPT?",
-  "Option A": "Microtubules",
-  "Option B": "Actin filaments",
-  "Option C": "Intermediate filaments",
-  "Option D": "Cellulose",
-  "Answer": "Cellulose"
- },
- {
-  "Question": "19. What structure helps in cell division in animal cells?",
-  "Option A": "Centriole",
-  "Option B": "Cilia",
-  "Option C": "Flagella",
-  "Option D": "Microvilli",
-  "Answer": "Centriole"
- },
- {
-  "Question": "20. Which organelle produces ATP?",
-  "Option A": "Mitochondria",
-  "Option B": "Chloroplast",
-  "Option C": "Nucleus",
-  "Option D": "Ribosome",
-  "Answer": "Mitochondria"
- },
- {
-  "Question": "21. What is the function of lysosomes?",
-  "Option A": "Protein synthesis",
-  "Option B": "Digestion of waste",
-  "Option C": "Energy production",
-  "Option D": "DNA replication",
-  "Answer": "Digestion of waste"
- },
- {
-  "Question": "22. What kind of molecule forms the lipid bilayer of membranes?",
-  "Option A": "Protein",
-  "Option B": "Phospholipid",
-  "Option C": "Carbohydrate",
-  "Option D": "Nucleic acid",
-  "Answer": "Phospholipid"
- },
- {
-  "Question": "23. Which organelle is responsible for detoxification?",
-  "Option A": "Lysosome",
-  "Option B": "Peroxisome",
-  "Option C": "Golgi apparatus",
-  "Option D": "Ribosome",
-  "Answer": "Peroxisome"
- },
- {
-  "Question": "24. Which organelle is NOT found in animal cells?",
-  "Option A": "Chloroplast",
-  "Option B": "Mitochondria",
-  "Option C": "Nucleus",
-  "Option D": "Ribosome",
-  "Answer": "Chloroplast"
- },
- {
-  "Question": "25. What is the role of ribosomes?",
-  "Option A": "Protein synthesis",
-  "Option B": "Lipid synthesis",
-  "Option C": "Energy storage",
-  "Option D": "DNA replication",
-  "Answer": "Protein synthesis"
- },
- {
-  "Question": "26. The genetic material of a cell is made of?",
-  "Option A": "Protein",
-  "Option B": "DNA",
-  "Option C": "Lipid",
-  "Option D": "Carbohydrate",
-  "Answer": "DNA"
- },
- {
-  "Question": "27. What process do cells use to engulf large particles?",
-  "Option A": "Diffusion",
-  "Option B": "Phagocytosis",
-  "Option C": "Osmosis",
-  "Option D": "Exocytosis",
-  "Answer": "Phagocytosis"
- },
- {
-  "Question": "28. Which of these is a characteristic of prokaryotic cells?",
-  "Option A": "No nucleus",
-  "Option B": "Membrane-bound organelles",
-  "Option C": "Large size",
-  "Option D": "Multiple chromosomes",
-  "Answer": "No nucleus"
- },
- {
-  "Question": "29. Which structure helps in movement of the cell?",
-  "Option A": "Cell wall",
-  "Option B": "Flagella",
-  "Option C": "Golgi apparatus",
-  "Option D": "Nucleolus",
-  "Answer": "Flagella"
- },
- {
-  "Question": "30. What type of microscope is used to see cell organelles?",
-  "Option A": "Light microscope",
-  "Option B": "Electron microscope",
-  "Option C": "Simple microscope",
-  "Option D": "Dissecting microscope",
-  "Answer": "Electron microscope"
- },
- {
-  "Question": "31. Which phase of the cell cycle involves DNA replication?",
-  "Option A": "G1 phase",
-  "Option B": "S phase",
-  "Option C": "G2 phase",
-  "Option D": "M phase",
-  "Answer": "S phase"
- },
- {
-  "Question": "32. The lipid bilayer of the membrane is permeable to?",
-  "Option A": "Ions",
-  "Option B": "Water",
-  "Option C": "Proteins",
-  "Option D": "Large molecules",
-  "Answer": "Water"
- },
- {
-  "Question": "33. Which organelle is involved in RNA synthesis?",
-  "Option A": "Ribosome",
-  "Option B": "Nucleolus",
-  "Option C": "Golgi apparatus",
-  "Option D": "Lysosome",
-  "Answer": "Nucleolus"
- },
- {
-  "Question": "34. Which organelle is responsible for producing secretory vesicles?",
-  "Option A": "Golgi apparatus",
-  "Option B": "Mitochondria",
-  "Option C": "Endoplasmic reticulum",
-  "Option D": "Lysosome",
-  "Answer": "Golgi apparatus"
- },
- {
-  "Question": "35. The process by which cells take in liquids is called?",
-  "Option A": "Phagocytosis",
-  "Option B": "Pinocytosis",
-  "Option C": "Osmosis",
-  "Option D": "Diffusion",
-  "Answer": "Pinocytosis"
- },
- {
-  "Question": "36. Which organelle in plants stores starch?",
-  "Option A": "Vacuole",
-  "Option B": "Chloroplast",
-  "Option C": "Mitochondria",
-  "Option D": "Golgi apparatus",
-  "Answer": "Vacuole"
- },
- {
-  "Question": "37. Which of the following is NOT a component of the cytoskeleton?",
-  "Option A": "Microtubules",
-  "Option B": "Actin filaments",
-  "Option C": "Cellulose",
-  "Option D": "Intermediate filaments",
-  "Answer": "Cellulose"
- },
- {
-  "Question": "38. What is the role of the nucleolus?",
-  "Option A": "Protein synthesis",
-  "Option B": "Ribosome production",
-  "Option C": "DNA storage",
-  "Option D": "Lipid synthesis",
-  "Answer": "Ribosome production"
- },
- {
-  "Question": "39. What does the Golgi apparatus produce?",
-  "Option A": "ATP",
-  "Option B": "Enzymes and vesicles",
-  "Option C": "Lipids",
-  "Option D": "DNA",
-  "Answer": "Enzymes and vesicles"
- },
- {
-  "Question": "40. The plasma membrane is made up of?",
-  "Option A": "Lipids and proteins",
-  "Option B": "Carbohydrates and lipids",
-  "Option C": "Nucleic acids",
-  "Option D": "Proteins only",
-  "Answer": "Lipids and proteins"
- },
- {
-  "Question": "41. What is the primary function of the smooth ER?",
-  "Option A": "Protein synthesis",
-  "Option B": "Lipid synthesis",
-  "Option C": "ATP production",
-  "Option D": "DNA replication",
-  "Answer": "Lipid synthesis"
- },
- {
-  "Question": "42. The movement of water across a membrane is called?",
-  "Option A": "Diffusion",
-  "Option B": "Osmosis",
-  "Option C": "Active transport",
-  "Option D": "Facilitated diffusion",
-  "Answer": "Osmosis"
- },
- {
-  "Question": "43. Which of the following organelles contain their own DNA?",
-  "Option A": "Nucleus and mitochondria",
-  "Option B": "Golgi apparatus",
-  "Option C": "Lysosome",
-  "Option D": "Ribosome",
-  "Answer": "Nucleus and mitochondria"
- },
- {
-  "Question": "44. What structure maintains cell shape and aids in movement?",
-  "Option A": "Cytoskeleton",
-  "Option B": "Cell membrane",
-  "Option C": "Nucleus",
-  "Option D": "Golgi apparatus",
-  "Answer": "Cytoskeleton"
- },
- {
-  "Question": "45. Which organelle is responsible for packaging macromolecules?",
-  "Option A": "Golgi apparatus",
-  "Option B": "Lysosome",
-  "Option C": "Mitochondria",
-  "Option D": "Endoplasmic reticulum",
-  "Answer": "Golgi apparatus"
- },
- {
-  "Question": "46. What is the site of aerobic respiration in cells?",
-  "Option A": "Chloroplast",
-  "Option B": "Mitochondria",
-  "Option C": "Nucleus",
-  "Option D": "Ribosome",
-  "Answer": "Mitochondria"
- },
- {
-  "Question": "47. Which organelle assists in spindle formation during mitosis?",
-  "Option A": "Centriole",
-  "Option B": "Golgi apparatus",
-  "Option C": "Lysosome",
-  "Option D": "Endoplasmic reticulum",
-  "Answer": "Centriole"
- },
- {
-  "Question": "48. The process of programmed cell death is called?",
-  "Option A": "Apoptosis",
-  "Option B": "Necrosis",
-  "Option C": "Mitosis",
-  "Option D": "Meiosis",
-  "Answer": "Apoptosis"
- },
- {
-  "Question": "49. Which organelle is responsible for detoxifying alcohol?",
-  "Option A": "Peroxisome",
-  "Option B": "Lysosome",
-  "Option C": "Golgi apparatus",
-  "Option D": "Mitochondria",
-  "Answer": "Peroxisome"
- },
- {
-  "Question": "50. Which organelle contains enzymes that break down fatty acids?",
-  "Option A": "Peroxisome",
-  "Option B": "Lysosome",
-  "Option C": "Mitochondria",
-  "Option D": "Golgi apparatus",
-  "Answer": "Peroxisome"
- }
-],
-"Sheet2":[],
-"Sheet3":[]
-}
+[
+  {
+    "Question": "1. What is the powerhouse of the cell?",
+    "Option A": "Ribosome",
+    "Option B": "Mitochondria",
+    "Option C": "Nucleus",
+    "Option D": "Golgi apparatus",
+    "Answer": "Mitochondria"
+  },
+  {
+    "Question": "2. Which organelle is responsible for protein synthesis?",
+    "Option A": "Lysosome",
+    "Option B": "Ribosome",
+    "Option C": "Endoplasmic reticulum",
+    "Option D": "Chloroplast",
+    "Answer": "Ribosome"
+  },
+  {
+    "Question": "3. What is the basic unit of life?",
+    "Option A": "Tissue",
+    "Option B": "Organ",
+    "Option C": "Cell",
+    "Option D": "Molecule",
+    "Answer": "Cell"
+  },
+  {
+    "Question": "4. Which cell organelle contains digestive enzymes?",
+    "Option A": "Nucleus",
+    "Option B": "Lysosome",
+    "Option C": "Vacuole",
+    "Option D": "Cytoplasm",
+    "Answer": "Lysosome"
+  },
+  {
+    "Question": "5. What is the main function of the cell membrane?",
+    "Option A": "Protein synthesis",
+    "Option B": "Energy production",
+    "Option C": "Control entry/exit",
+    "Option D": "Photosynthesis",
+    "Answer": "Control entry/exit"
+  },
+  {
+    "Question": "6. Which structure is found only in plant cells?",
+    "Option A": "Lysosome",
+    "Option B": "Cell wall",
+    "Option C": "Mitochondria",
+    "Option D": "Centriole",
+    "Answer": "Cell wall"
+  },
+  {
+    "Question": "7. DNA is found in which part of the cell?",
+    "Option A": "Cytoplasm",
+    "Option B": "Ribosome",
+    "Option C": "Nucleus",
+    "Option D": "Golgi apparatus",
+    "Answer": "Nucleus"
+  },
+  {
+    "Question": "8. What is the fluid inside the cell called?",
+    "Option A": "Cytoplasm",
+    "Option B": "Nucleoplasm",
+    "Option C": "Matrix",
+    "Option D": "Plasma",
+    "Answer": "Cytoplasm"
+  },
+  {
+    "Question": "9. Which organelle modifies and packages proteins?",
+    "Option A": "Golgi apparatus",
+    "Option B": "Endoplasmic reticulum",
+    "Option C": "Mitochondria",
+    "Option D": "Ribosome",
+    "Answer": "Golgi apparatus"
+  },
+  {
+    "Question": "10. What is the function of chloroplasts?",
+    "Option A": "Respiration",
+    "Option B": "Photosynthesis",
+    "Option C": "Protein synthesis",
+    "Option D": "Digestion",
+    "Answer": "Photosynthesis"
+  },
+  {
+    "Question": "11. Which type of RNA carries amino acids to the ribosome?",
+    "Option A": "mRNA",
+    "Option B": "tRNA",
+    "Option C": "rRNA",
+    "Option D": "snRNA",
+    "Answer": "tRNA"
+  },
+  {
+    "Question": "12. The process of cell division in prokaryotes is called?",
+    "Option A": "Mitosis",
+    "Option B": "Binary fission",
+    "Option C": "Meiosis",
+    "Option D": "Cytokinesis",
+    "Answer": "Binary fission"
+  },
+  {
+    "Question": "13. Which part of the cell controls cell activities?",
+    "Option A": "Ribosome",
+    "Option B": "Golgi apparatus",
+    "Option C": "Nucleus",
+    "Option D": "Lysosome",
+    "Answer": "Nucleus"
+  },
+  {
+    "Question": "14. What is the role of the rough endoplasmic reticulum?",
+    "Option A": "Lipid synthesis",
+    "Option B": "Protein synthesis",
+    "Option C": "Photosynthesis",
+    "Option D": "ATP production",
+    "Answer": "Protein synthesis"
+  },
+  {
+    "Question": "15. Which organelle stores water and nutrients in plant cells?",
+    "Option A": "Vacuole",
+    "Option B": "Lysosome",
+    "Option C": "Mitochondria",
+    "Option D": "Endoplasmic reticulum",
+    "Answer": "Vacuole"
+  },
+  {
+    "Question": "16. What is the primary function of microtubules?",
+    "Option A": "Transport materials",
+    "Option B": "Provide shape to cell",
+    "Option C": "Aid in cell division",
+    "Option D": "All of the above",
+    "Answer": "All of the above"
+  },
+  {
+    "Question": "17. Which organelle is involved in lipid synthesis?",
+    "Option A": "Smooth ER",
+    "Option B": "Rough ER",
+    "Option C": "Golgi apparatus",
+    "Option D": "Lysosome",
+    "Answer": "Smooth ER"
+  },
+  {
+    "Question": "18. The cytoskeleton is made up of all EXCEPT?",
+    "Option A": "Microtubules",
+    "Option B": "Actin filaments",
+    "Option C": "Intermediate filaments",
+    "Option D": "Cellulose",
+    "Answer": "Cellulose"
+  },
+  {
+    "Question": "19. What structure helps in cell division in animal cells?",
+    "Option A": "Centriole",
+    "Option B": "Cilia",
+    "Option C": "Flagella",
+    "Option D": "Microvilli",
+    "Answer": "Centriole"
+  },
+  {
+    "Question": "20. Which organelle produces ATP?",
+    "Option A": "Mitochondria",
+    "Option B": "Chloroplast",
+    "Option C": "Nucleus",
+    "Option D": "Ribosome",
+    "Answer": "Mitochondria"
+  },
+  {
+    "Question": "21. What is the function of lysosomes?",
+    "Option A": "Protein synthesis",
+    "Option B": "Digestion of waste",
+    "Option C": "Energy production",
+    "Option D": "DNA replication",
+    "Answer": "Digestion of waste"
+  },
+  {
+    "Question": "22. What kind of molecule forms the lipid bilayer of membranes?",
+    "Option A": "Protein",
+    "Option B": "Phospholipid",
+    "Option C": "Carbohydrate",
+    "Option D": "Nucleic acid",
+    "Answer": "Phospholipid"
+  },
+  {
+    "Question": "23. Which organelle is responsible for detoxification?",
+    "Option A": "Lysosome",
+    "Option B": "Peroxisome",
+    "Option C": "Golgi apparatus",
+    "Option D": "Ribosome",
+    "Answer": "Peroxisome"
+  },
+  {
+    "Question": "24. Which organelle is NOT found in animal cells?",
+    "Option A": "Chloroplast",
+    "Option B": "Mitochondria",
+    "Option C": "Nucleus",
+    "Option D": "Ribosome",
+    "Answer": "Chloroplast"
+  },
+  {
+    "Question": "25. What is the role of ribosomes?",
+    "Option A": "Protein synthesis",
+    "Option B": "Lipid synthesis",
+    "Option C": "Energy storage",
+    "Option D": "DNA replication",
+    "Answer": "Protein synthesis"
+  },
+  {
+    "Question": "26. The genetic material of a cell is made of?",
+    "Option A": "Protein",
+    "Option B": "DNA",
+    "Option C": "Lipid",
+    "Option D": "Carbohydrate",
+    "Answer": "DNA"
+  },
+  {
+    "Question": "27. What process do cells use to engulf large particles?",
+    "Option A": "Diffusion",
+    "Option B": "Phagocytosis",
+    "Option C": "Osmosis",
+    "Option D": "Exocytosis",
+    "Answer": "Phagocytosis"
+  },
+  {
+    "Question": "28. Which of these is a characteristic of prokaryotic cells?",
+    "Option A": "No nucleus",
+    "Option B": "Membrane-bound organelles",
+    "Option C": "Large size",
+    "Option D": "Multiple chromosomes",
+    "Answer": "No nucleus"
+  },
+  {
+    "Question": "29. Which structure helps in movement of the cell?",
+    "Option A": "Cell wall",
+    "Option B": "Flagella",
+    "Option C": "Golgi apparatus",
+    "Option D": "Nucleolus",
+    "Answer": "Flagella"
+  },
+  {
+    "Question": "30. What type of microscope is used to see cell organelles?",
+    "Option A": "Light microscope",
+    "Option B": "Electron microscope",
+    "Option C": "Simple microscope",
+    "Option D": "Dissecting microscope",
+    "Answer": "Electron microscope"
+  },
+  {
+    "Question": "31. Which phase of the cell cycle involves DNA replication?",
+    "Option A": "G1 phase",
+    "Option B": "S phase",
+    "Option C": "G2 phase",
+    "Option D": "M phase",
+    "Answer": "S phase"
+  },
+  {
+    "Question": "32. The lipid bilayer of the membrane is permeable to?",
+    "Option A": "Ions",
+    "Option B": "Water",
+    "Option C": "Proteins",
+    "Option D": "Large molecules",
+    "Answer": "Water"
+  },
+  {
+    "Question": "33. Which organelle is involved in RNA synthesis?",
+    "Option A": "Ribosome",
+    "Option B": "Nucleolus",
+    "Option C": "Golgi apparatus",
+    "Option D": "Lysosome",
+    "Answer": "Nucleolus"
+  },
+  {
+    "Question": "34. Which organelle is responsible for producing secretory vesicles?",
+    "Option A": "Golgi apparatus",
+    "Option B": "Mitochondria",
+    "Option C": "Endoplasmic reticulum",
+    "Option D": "Lysosome",
+    "Answer": "Golgi apparatus"
+  },
+  {
+    "Question": "35. The process by which cells take in liquids is called?",
+    "Option A": "Phagocytosis",
+    "Option B": "Pinocytosis",
+    "Option C": "Osmosis",
+    "Option D": "Diffusion",
+    "Answer": "Pinocytosis"
+  },
+  {
+    "Question": "36. Which organelle in plants stores starch?",
+    "Option A": "Vacuole",
+    "Option B": "Chloroplast",
+    "Option C": "Mitochondria",
+    "Option D": "Golgi apparatus",
+    "Answer": "Vacuole"
+  },
+  {
+    "Question": "37. Which of the following is NOT a component of the cytoskeleton?",
+    "Option A": "Microtubules",
+    "Option B": "Actin filaments",
+    "Option C": "Cellulose",
+    "Option D": "Intermediate filaments",
+    "Answer": "Cellulose"
+  },
+  {
+    "Question": "38. What is the role of the nucleolus?",
+    "Option A": "Protein synthesis",
+    "Option B": "Ribosome production",
+    "Option C": "DNA storage",
+    "Option D": "Lipid synthesis",
+    "Answer": "Ribosome production"
+  },
+  {
+    "Question": "39. What does the Golgi apparatus produce?",
+    "Option A": "ATP",
+    "Option B": "Enzymes and vesicles",
+    "Option C": "Lipids",
+    "Option D": "DNA",
+    "Answer": "Enzymes and vesicles"
+  },
+  {
+    "Question": "40. The plasma membrane is made up of?",
+    "Option A": "Lipids and proteins",
+    "Option B": "Carbohydrates and lipids",
+    "Option C": "Nucleic acids",
+    "Option D": "Proteins only",
+    "Answer": "Lipids and proteins"
+  },
+  {
+    "Question": "41. What is the primary function of the smooth ER?",
+    "Option A": "Protein synthesis",
+    "Option B": "Lipid synthesis",
+    "Option C": "ATP production",
+    "Option D": "DNA replication",
+    "Answer": "Lipid synthesis"
+  },
+  {
+    "Question": "42. The movement of water across a membrane is called?",
+    "Option A": "Diffusion",
+    "Option B": "Osmosis",
+    "Option C": "Active transport",
+    "Option D": "Facilitated diffusion",
+    "Answer": "Osmosis"
+  },
+  {
+    "Question": "43. Which of the following organelles contain their own DNA?",
+    "Option A": "Nucleus and mitochondria",
+    "Option B": "Golgi apparatus",
+    "Option C": "Lysosome",
+    "Option D": "Ribosome",
+    "Answer": "Nucleus and mitochondria"
+  },
+  {
+    "Question": "44. What structure maintains cell shape and aids in movement?",
+    "Option A": "Cytoskeleton",
+    "Option B": "Cell membrane",
+    "Option C": "Nucleus",
+    "Option D": "Golgi apparatus",
+    "Answer": "Cytoskeleton"
+  },
+  {
+    "Question": "45. Which organelle is responsible for packaging macromolecules?",
+    "Option A": "Golgi apparatus",
+    "Option B": "Lysosome",
+    "Option C": "Mitochondria",
+    "Option D": "Endoplasmic reticulum",
+    "Answer": "Golgi apparatus"
+  },
+  {
+    "Question": "46. What is the site of aerobic respiration in cells?",
+    "Option A": "Chloroplast",
+    "Option B": "Mitochondria",
+    "Option C": "Nucleus",
+    "Option D": "Ribosome",
+    "Answer": "Mitochondria"
+  },
+  {
+    "Question": "47. Which organelle assists in spindle formation during mitosis?",
+    "Option A": "Centriole",
+    "Option B": "Golgi apparatus",
+    "Option C": "Lysosome",
+    "Option D": "Endoplasmic reticulum",
+    "Answer": "Centriole"
+  },
+  {
+    "Question": "48. The process of programmed cell death is called?",
+    "Option A": "Apoptosis",
+    "Option B": "Necrosis",
+    "Option C": "Mitosis",
+    "Option D": "Meiosis",
+    "Answer": "Apoptosis"
+  },
+  {
+    "Question": "49. Which organelle is responsible for detoxifying alcohol?",
+    "Option A": "Peroxisome",
+    "Option B": "Lysosome",
+    "Option C": "Golgi apparatus",
+    "Option D": "Mitochondria",
+    "Answer": "Peroxisome"
+  },
+  {
+    "Question": "50. Which organelle contains enzymes that break down fatty acids?",
+    "Option A": "Peroxisome",
+    "Option B": "Lysosome",
+    "Option C": "Mitochondria",
+    "Option D": "Golgi apparatus",
+    "Answer": "Peroxisome"
+  }
+]
