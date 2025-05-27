@@ -1,0 +1,82 @@
+[
+ {
+  "Question": "Which organ is responsible for the production of bile?",
+  "Option A": "Stomach",
+  "Option B": "Liver",
+  "Option C": "Pancreas",
+  "Option D": "Small intestine",
+  "Answer": "Liver"
+ },
+ {
+  "Question": "What is the function of the small intestine?",
+  "Option A": "Water absorption",
+  "Option B": "Bile production",
+  "Option C": "Digestion and absorption of nutrients",
+  "Option D": "Storage of food",
+  "Answer": "Digestion and absorption of nutrients"
+ },
+ {
+  "Question": "Where does protein digestion begin?",
+  "Option A": "Mouth",
+  "Option B": "Esophagus",
+  "Option C": "Stomach",
+  "Option D": "Small intestine",
+  "Answer": "Stomach"
+ },
+ {
+  "Question": "What enzyme breaks down starch in the mouth?",
+  "Option A": "Pepsin",
+  "Option B": "Amylase",
+  "Option C": "Lipase",
+  "Option D": "Trypsin",
+  "Answer": "Amylase"
+ },
+ {
+  "Question": "Which organ stores bile?",
+  "Option A": "Liver",
+  "Option B": "Gallbladder",
+  "Option C": "Pancreas",
+  "Option D": "Large intestine",
+  "Answer": "Gallbladder"
+ },
+ {
+  "Question": "What is the role of the large intestine?",
+  "Option A": "Digestion of proteins",
+  "Option B": "Absorption of nutrients",
+  "Option C": "Absorption of water",
+  "Option D": "Production of bile",
+  "Answer": "Absorption of water"
+ },
+ {
+  "Question": "Which part of the digestive system has villi for absorption?",
+  "Option A": "Esophagus",
+  "Option B": "Stomach",
+  "Option C": "Small intestine",
+  "Option D": "Large intestine",
+  "Answer": "Small intestine"
+ },
+ {
+  "Question": "Which enzyme is secreted by the stomach to digest proteins?",
+  "Option A": "Amylase",
+  "Option B": "Pepsin",
+  "Option C": "Lipase",
+  "Option D": "Trypsin",
+  "Answer": "Pepsin"
+ },
+ {
+  "Question": "Which organ secretes insulin and digestive enzymes?",
+  "Option A": "Liver",
+  "Option B": "Pancreas",
+  "Option C": "Gallbladder",
+  "Option D": "Kidney",
+  "Answer": "Pancreas"
+ },
+ {
+  "Question": "What is the tube connecting the mouth and stomach called?",
+  "Option A": "Trachea",
+  "Option B": "Esophagus",
+  "Option C": "Intestine",
+  "Option D": "Colon",
+  "Answer": "Esophagus"
+ }
+]
